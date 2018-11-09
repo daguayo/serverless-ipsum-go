@@ -1,0 +1,1 @@
+Lorem Ipsum Serverless service built with Serverless Framework and Go. _May_ be useful as a HOW-TO example.
